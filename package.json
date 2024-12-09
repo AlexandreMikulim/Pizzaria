@@ -1,0 +1,9 @@
+{
+  "name": "flask-email-cadastro",
+  "version": "1.0.0",
+  "description": "Projeto Flask para cadastro de emails",
+  "main": "app.py",
+  "scripts": {
+    "start": "python app.py"
+  }
+}
