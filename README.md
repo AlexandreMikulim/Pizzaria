@@ -1,2 +1,0 @@
-# Pizzaria
-Projeto FatPizza
